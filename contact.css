@@ -1,0 +1,21 @@
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: #ff0000;
+	transition: .5s;
+}
+a:visited{
+	color: red;
+}
+a:active{
+	color: red;
+}
+a:link{
+	text-decoration: none;
+}
+h1{
+	border: 5px;
+	border-color: red;
+	font-family: verdana;
+}

@@ -1,0 +1,33 @@
+html, body{
+height: 100%;
+}
+
+p{
+	align-items: center;
+}
+img{
+height: 70%;
+}
+img:hover{
+	transform: rotateZ(720deg);
+	transition: 1.5s;
+}
+#link{
+	font-family: verdana;
+	font-size: 40px;
+	text-align: right;
+}
+a{
+	padding-top: 50px;
+	padding-right: 50px;
+}
+a:hover{
+	color: #ff0000;
+	transition: .5s;
+}
+a:active{
+	color: red;
+}
+a:link{
+	text-decoration: none;
+}
